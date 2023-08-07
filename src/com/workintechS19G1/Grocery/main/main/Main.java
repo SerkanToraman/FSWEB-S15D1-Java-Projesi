@@ -1,6 +1,6 @@
-package com.workintechS19G1.main;
+package com.workintechS19G1.Grocery.main.main;
 
-import com.workintechS19G1.model.ShoppingCartStart;
+import com.workintechS19G1.Grocery.main.model.ShoppingCartStart;
 
 import java.util.LinkedList;
 import java.util.List;

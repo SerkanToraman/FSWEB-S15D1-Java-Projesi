@@ -1,9 +1,7 @@
-package com.workintechS19G1.model;
+package com.workintechS19G1.Grocery.main.model;
 
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
 
 public class ShoppingCart {
 

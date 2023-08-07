@@ -1,12 +1,9 @@
-package com.workintechS19G1.model;
+package com.workintechS19G1.Grocery.main.model;
 
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
 public class ShoppingCartStart {
-
-
 
     public static void listActivityStart(List<String> groceryList) {
         Scanner scanInt = new Scanner(System.in);
