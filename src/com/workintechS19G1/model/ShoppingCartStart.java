@@ -33,6 +33,7 @@ public class ShoppingCartStart {
                 }
             }catch(Exception ex){
                 System.out.println("Geçersiz işlem: " +ex.getMessage());
+                break;
             }
 
         }
